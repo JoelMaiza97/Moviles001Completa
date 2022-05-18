@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_CerrarF
+id btn_Mostrar
+id btn_Siguiente
+id btn_cerrar
+id btn_siguiente
+id txt_IngresarExp
+id txt_factorial
+id txt_ingresarApellido
+id txt_ingresarBase
+id txt_ingresarNom
+id txt_ingresarNum
+id txt_leerApellido
+id txt_leerBase
+id txt_leerExpon
+id txt_leerNombre
+id txt_mostrNombr
+id txt_mostrarBase
+id txt_potencia
+layout activity_main
+layout activity_main2
+layout activity_main3
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MaizaJoel
